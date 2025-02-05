@@ -1,5 +1,8 @@
-Hey, i'm secvim. 
+# 💫 About Me:
+🔭 I’m currently learning java and Python.  
+👯 I mostly look up for jailbreak methods on console.   
+💬 Ask me about EFIs, Console issues etc... 
+⚡ Fun fact: I'm learning the Hackintosh World.
 
-I'm a student who's learning how to code on my lil' house.
-
-he/him
+## 🌐 Socials:
+[![Discord] seczity  
