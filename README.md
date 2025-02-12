@@ -12,3 +12,6 @@ Discord : seczity
 📤 You can contact me VIA Discord  
 🍙 Btw, i love ricing  
 🎮 I use Lazyvim instead of VSCode  
+
+## Things that i use :  
+ttps://skillicons.dev/icons?i=go,javascript,neovim,linux,arch,bash,github,figma&)](https://skillicons.dev)
