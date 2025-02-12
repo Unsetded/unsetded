@@ -9,9 +9,6 @@ Discord : seczity
 
 ## 🔔 Goals And Other stuffs : 
 💻 I Work on prgrams to make tasks easier.
-
 📤 You can contact me VIA Discord
- 
 🍙 Btw, i love ricing
-
 🎮 I use Lazyvim instead of VSCode
