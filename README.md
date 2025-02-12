@@ -4,8 +4,8 @@
 💬 Ask me about EFIs, Console issues etc... 
 
 ## 🌐 Socials:
-X : seczity
-Discord : seczity
+X : seczity  
+Discord : seczity  
 
 ## 🔔 Goals And Other stuffs : 
 💻 I Work on prgrams to make tasks easier.  
