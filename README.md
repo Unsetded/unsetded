@@ -14,4 +14,4 @@ Discord : seczity
 🎮 I use Lazyvim instead of VSCode  
 
 # 📷 Things that i use :  
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,neovim,linux,apple,arch,bash,github&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,neovim,linux,apple,arch,bash&)](https://skillicons.dev)
