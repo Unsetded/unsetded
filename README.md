@@ -4,8 +4,7 @@
 💬 Ask me about EFIs, Console issues etc... 
 
 # 🌐 Socials:
-X : seczity  
-Discord : seczity  
+https://guns.lol/homebrew
 
 # 🔔 Goals And Other stuffs : 
 💻 I Work on prgrams to make tasks easier.  
