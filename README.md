@@ -1,13 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently learning Javascript and Python.  
+🔭 I’m currently learning C and C++.  
 👯 I mostly look up for jailbreak methods on console.   
-💬 Ask me about EFIs, Console issues etc... 
+💬 Ask me about EFIs, Consoles etc... 
 
 # 🌐 Socials:
 https://guns.lol/homebrew
 
 # 🔔 Goals And Other stuffs : 
-💻 I Work on prgrams to make tasks easier.  
+💻 I Work on programs to make tasks easier.  
 📤 You can contact me VIA Discord  
 🍙 Btw, i love ricing  
 🎮 I use Lazyvim instead of VSCode  
